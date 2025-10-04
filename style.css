@@ -19,7 +19,7 @@
     cursor: pointer!important;
 }
 
-#morningbrew .nav-item.active {
+#morningbrew .nav-items.active {
     padding-top: 0px;
     color: black;
 }
@@ -35,4 +35,17 @@
 
 #navbar4 div.nav-link.active {
     color: #EDC601
+}
+
+#navbar5 {
+    background-color: #017574;
+    color: white;
+}
+
+#navbar5 li.nav-item.nav-link {
+    color: white;
+}
+
+#navbar5 li#delivery.nav-item.nav-link {
+    color: #F1A228;
 }
