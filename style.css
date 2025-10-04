@@ -3,7 +3,7 @@
     color: white;
 }
 
-#navbar a{
+#navbar i{
     color: white;
 }
 
@@ -22,4 +22,9 @@
 #morningbrew .nav-item.active {
     padding-top: 0px;
     color: black;
+}
+
+#navbar3 {
+    background-color: rgb(48,73,95);
+    color: white;
 }
