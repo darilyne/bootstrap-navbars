@@ -7,7 +7,7 @@
     color: white;
 }
 
-#morningbrew .nav-item {
+#morningbrew .nav-items {
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 2px;
@@ -27,4 +27,12 @@
 #navbar3 {
     background-color: rgb(48,73,95);
     color: white;
+}
+
+#navbar4 div.nav-link {
+    color: black;
+}
+
+#navbar4 div.nav-link.active {
+    color: #EDC601
 }
