@@ -19,7 +19,7 @@
     cursor: pointer!important;
 }
 
-#morningbrew .nav-item.active {
+#morningbrew .nav-items.active {
     padding-top: 0px;
     color: black;
 }
